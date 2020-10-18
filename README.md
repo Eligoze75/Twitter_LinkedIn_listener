@@ -15,4 +15,6 @@ I want to use everything that could be useful:
 
 In order to analyze tweets, I'll use sentimental analysis with Textblob library for python.
 
+Because Github doesn't render plotly plots, you can consult the notebook with html features here: [Notebook with html features](https://nbviewer.jupyter.org/github/Eligoze75/Twitter_LinkedIn_listener/blob/master/src/Social%20listening%20report.ipynb)  
+
 Cheers! 🙌
