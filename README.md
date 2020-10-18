@@ -17,4 +17,6 @@ In order to analyze tweets, I'll use sentimental analysis with Textblob library 
 
 Because Github doesn't render plotly plots, you can consult the notebook with html features here: [Notebook with html features](https://nbviewer.jupyter.org/github/Eligoze75/Twitter_LinkedIn_listener/blob/master/src/Social%20listening%20report.ipynb)  
 
+[You can also see it in datapane!](https://datapane.com/eli/reports/Twitter_and_LinkedIn_listener) I'm using Altair for visualization instead.
+
 Cheers! 🙌
